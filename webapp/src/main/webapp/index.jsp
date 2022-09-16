@@ -1,2 +1,1 @@
-Welcome to UnD Fitness!
-This webapp is running on the Tomcat9
+Hello! This is the simple text java application and deployed by Vibhor Tyagi.
